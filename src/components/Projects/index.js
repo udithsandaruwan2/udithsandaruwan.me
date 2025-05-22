@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 import { Container, Wrapper, Title, Desc, CardContainer, ToggleButtonGroup, ToggleButton, Divider } from './ProjectsStyle'
+import { colors } from '@mui/material';
 import ProjectCard from '../Cards/ProjectCards'
 import { projects } from '../../data/constants'
 
@@ -50,6 +51,8 @@ const Projects = ({openModal,setOpenModal}) => {
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}
         </CardContainer>
+        <p style={{ color: 'white' }}>Coming Soon!</p>
+
       </Wrapper>
     </Container>
   )
