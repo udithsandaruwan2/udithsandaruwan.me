@@ -350,7 +350,7 @@ export const projects = [
       "Developed a full-stack web application that allows users/staff to manage the leaves and etc of their employees.",
     image:
       "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/gwuim-8000.png?raw=true",
-    tags: ["Djano", "Python", "Html", "Css", "Js", "Django Template Engine", "PostgreSQL"],
+    tags: ["Djano", "Python", "Html", "Css", "Js", "Django Template Engine", "PostgreSQL", "Django Rest Api"],
     category: "web app",
     github: "https://github.com/udithsandaruwan2/gwuim-8000",
     webapp: "",
@@ -371,9 +371,51 @@ export const projects = [
       "Developed a full-stack web application that allows users/staff to manage the attendance and etc of their employees.",
     image:
       "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/gwuim-8001.png?raw=true",
-    tags: ["Djano", "Python", "Html", "Css", "Js", "Django Template Engine", "PostgreSQL"],
+    tags: ["Djano", "Python", "Html", "Css", "Js", "Django Template Engine", "PostgreSQL", "Django Rest Api"],
     category: "web app",
     github: "https://github.com/udithsandaruwan2/gwuim-8001",
+    webapp: "",
+    member: [
+      {
+        name: "Udith Sandaruwan",
+        img: "https://avatars.githubusercontent.com/u/168072320?v=4",
+        linkedin: "https://www.linkedin.com/in/udithsandaruwan/",
+        github: "https://github.com/udithsandaruwan2",
+      }
+    ],
+  },
+  {
+    id: 4,
+    title: "Health-sync 2.0",
+    date: "2024",
+    description:
+      "Developed a full-stack web application that allows users to find a suitable doctor and book appointments as they wish and manage the progress.",
+    image:
+      "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/gwuim-8001.png?raw=true",
+    tags: ["Spring Boot", "Java", "React", "Vite", "Js", "MySQL", "Rest Api"],
+    category: "web app",
+    github: "https://github.com/udithsandaruwan2/health-sync-2.0",
+    webapp: "",
+    member: [
+      {
+        name: "Udith Sandaruwan",
+        img: "https://avatars.githubusercontent.com/u/168072320?v=4",
+        linkedin: "https://www.linkedin.com/in/udithsandaruwan/",
+        github: "https://github.com/udithsandaruwan2",
+      }
+    ],
+  },
+  {
+    id: 5,
+    title: "Animarc - BTTH",
+    date: "2024",
+    description:
+      "Developed a full-stack web application that allows users to watch the battle through the heaven anime series without any add by scrapping from 'https://luciferdonghua.in/'.",
+    image:
+      "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/gwuim-8001.png?raw=true",
+    tags: ["Django", "Python", "HTML", "Css", "Js", "Django Template Engine", "Web Scraping"],
+    category: "web app",
+    github: "https://github.com/udithsandaruwan2/animearc",
     webapp: "",
     member: [
       {
