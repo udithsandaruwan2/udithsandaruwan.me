@@ -28,17 +28,17 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
           }
           <Divider />
-          {toggle === 'android app' ?
-            <ToggleButton active value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
+          {toggle === 'AI related' ?
+            <ToggleButton active value="AI related" onClick={() => setToggle('AI related')}>AI related</ToggleButton>
             :
-            <ToggleButton value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
+            <ToggleButton value="AI related" onClick={() => setToggle('AI related')}>AI related</ToggleButton>
           }
-          <Divider />
+          {/* <Divider />
           {toggle === 'machine learning' ?
             <ToggleButton active value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
             :
             <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
-          }
+          } */}
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects
@@ -51,7 +51,6 @@ const Projects = ({openModal,setOpenModal}) => {
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}
         </CardContainer>
-        <p style={{ color: 'white' }}>Coming Soon!</p>
 
       </Wrapper>
     </Container>

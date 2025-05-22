@@ -302,29 +302,86 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "Serah - A Smart Helthcare Assistant",
+    title: "Serah - A Healthcare Ai",
     date: "2025",
     description:
       "Developed a full-stack web application that allows users talk and get to know about their helth and get advices.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+      "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/serah-ai.png?raw=true",
+    tags: ["HTML", "CSS", "JS", "Python", "Flask", "Gemini API"],
+    category:"AI related",
+    github: "https://github.com/udithsandaruwan2/serah--care-plus-ai",
+    webapp: "",
     member: [
       {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
+        name: "Udith Sandaruwan",
+        img: "https://avatars.githubusercontent.com/u/168072320?v=4",
+        linkedin: "https://www.linkedin.com/in/udithsandaruwan/",
+        github: "https://github.com/udithsandaruwan2",
+      }
+    ],
+  },
+  {
+    id: 1,
+    title: "Care Plus",
+    date: "2025",
+    description:
+      "Developed a full-stack web application that allows users to find a caregiver, request the, chat with them and monitor tha progress.",
+    image:
+      "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/care-plus.png?raw=true",
+    tags: ["Djano", "Python", "Html", "Css", "Js", "Gemini API", "Django Template Engine", "PostgreSQL"],
+    category: "web app",
+    github: "https://github.com/udithsandaruwan2/care-plus",
+    webapp: "",
+    member: [
       {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+        name: "Udith Sandaruwan",
+        img: "https://avatars.githubusercontent.com/u/168072320?v=4",
+        linkedin: "https://www.linkedin.com/in/udithsandaruwan/",
+        github: "https://github.com/udithsandaruwan2",
+      }
+    ],
+  },
+  {
+    id: 2,
+    title: "GWUIM - Leave MS",
+    date: "2025",
+    description:
+      "Developed a full-stack web application that allows users/staff to manage the leaves and etc of their employees.",
+    image:
+      "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/gwuim-8000.png?raw=true",
+    tags: ["Djano", "Python", "Html", "Css", "Js", "Django Template Engine", "PostgreSQL"],
+    category: "web app",
+    github: "https://github.com/udithsandaruwan2/gwuim-8000",
+    webapp: "",
+    member: [
+      {
+        name: "Udith Sandaruwan",
+        img: "https://avatars.githubusercontent.com/u/168072320?v=4",
+        linkedin: "https://www.linkedin.com/in/udithsandaruwan/",
+        github: "https://github.com/udithsandaruwan2",
+      }
+    ],
+  },
+  {
+    id: 3,
+    title: "GWUIM - Attendance MS",
+    date: "2025",
+    description:
+      "Developed a full-stack web application that allows users/staff to manage the attendance and etc of their employees.",
+    image:
+      "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/gwuim-8001.png?raw=true",
+    tags: ["Djano", "Python", "Html", "Css", "Js", "Django Template Engine", "PostgreSQL"],
+    category: "web app",
+    github: "https://github.com/udithsandaruwan2/gwuim-8001",
+    webapp: "",
+    member: [
+      {
+        name: "Udith Sandaruwan",
+        img: "https://avatars.githubusercontent.com/u/168072320?v=4",
+        linkedin: "https://www.linkedin.com/in/udithsandaruwan/",
+        github: "https://github.com/udithsandaruwan2",
+      }
     ],
   }
 ];
