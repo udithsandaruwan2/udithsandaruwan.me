@@ -391,7 +391,7 @@ export const projects = [
     description:
       "Developed a full-stack web application that allows users to find a suitable doctor and book appointments as they wish and manage the progress.",
     image:
-      "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/gwuim-8001.png?raw=true",
+      "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/health-sync%202.0.png?raw=true",
     tags: ["Spring Boot", "Java", "React", "Vite", "Js", "MySQL", "Rest Api"],
     category: "web app",
     github: "https://github.com/udithsandaruwan2/health-sync-2.0",
@@ -412,7 +412,7 @@ export const projects = [
     description:
       "Developed a full-stack web application that allows users to watch the battle through the heaven anime series without any add by scrapping from 'https://luciferdonghua.in/'.",
     image:
-      "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/gwuim-8001.png?raw=true",
+      "https://github.com/udithsandaruwan2/udithsandaruwan.me/blob/main/src/images/animarc.png?raw=true",
     tags: ["Django", "Python", "HTML", "Css", "Js", "Django Template Engine", "Web Scraping"],
     category: "web app",
     github: "https://github.com/udithsandaruwan2/animearc",
