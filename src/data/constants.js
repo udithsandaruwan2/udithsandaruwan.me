@@ -8,7 +8,7 @@ export const Bio = {
     "I am a highly motivated and versatile individual, always eager to embrace new challenges and opportunities. With a deep passion for learning, I continuously seek to expand my skills and knowledge to stay ahead in a dynamic environment. Guided by a positive attitude and a growth mindset, I approach every task with dedication, focusing on delivering high-quality results. I believe in the power of making meaningful contributions, and I am committed to achieving great things while constantly pushing the boundaries of my potential.",
   github: "https://github.com/udithsandaruwan2",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1iQmT59Vp6PR0t9lf-zZX7dbQ6WXOUGTr/view?usp=sharing",
   linkedin: "https://github.com/udithsandaruwan2",
   twitter: "https://www.youtube.com/@UdithSandaruwan",
   insta: "https://www.instagram.com/rishav_chanda/",
